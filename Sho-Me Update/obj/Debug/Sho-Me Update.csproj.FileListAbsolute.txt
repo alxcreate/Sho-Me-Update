@@ -1,0 +1,15 @@
+C:\Users\AbramovA\source\repos\Sho-Me Update\Sho-Me Update\bin\Debug\Sho-Me Update.exe.config
+C:\Users\AbramovA\source\repos\Sho-Me Update\Sho-Me Update\bin\Debug\Sho-Me Update.exe
+C:\Users\AbramovA\source\repos\Sho-Me Update\Sho-Me Update\bin\Debug\Sho-Me Update.pdb
+C:\Users\AbramovA\source\repos\Sho-Me Update\Sho-Me Update\obj\Debug\Sho_Me_Update.Properties.Resources.resources
+C:\Users\AbramovA\source\repos\Sho-Me Update\Sho-Me Update\obj\Debug\Sho-Me Update.csproj.GenerateResource.cache
+C:\Users\AbramovA\source\repos\Sho-Me Update\Sho-Me Update\obj\Debug\Sho-Me Update.csproj.CoreCompileInputs.cache
+C:\Users\AbramovA\source\repos\Sho-Me Update\Sho-Me Update\obj\Debug\Sho-Me Update.exe
+C:\Users\AbramovA\source\repos\Sho-Me Update\Sho-Me Update\obj\Debug\Sho-Me Update.pdb
+C:\Users\AbramovA\source\repos\Sho-Me Update\Sho-Me Update\bin\Debug\Sho-Me Update.exe.manifest
+C:\Users\AbramovA\source\repos\Sho-Me Update\Sho-Me Update\bin\Debug\Sho-Me Update.application
+C:\Users\AbramovA\source\repos\Sho-Me Update\Sho-Me Update\obj\Debug\Sho-Me Update.TrustInfo.xml
+C:\Users\AbramovA\source\repos\Sho-Me Update\Sho-Me Update\obj\Debug\Sho-Me Update.exe.manifest
+C:\Users\AbramovA\source\repos\Sho-Me Update\Sho-Me Update\obj\Debug\Sho-Me Update.application
+C:\Users\AbramovA\source\repos\Sho-Me Update\Sho-Me Update\obj\Debug\Sho-Me Update.csprojAssemblyReference.cache
+C:\Users\AbramovA\source\repos\Sho-Me Update\Sho-Me Update\obj\Debug\Sho_Me_Update.Form_Main.resources
